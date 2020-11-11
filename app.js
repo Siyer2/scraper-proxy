@@ -5,7 +5,8 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const app = express()
 
-app.use(bodyParser.json({ strict: false }));
+app.use(bodyParser.json({ limit: '50mb', extended: true }));
+app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }));
 
 const { getCourses } = require('./getCoursesFromRule');
 const { getGeneralEducation } = require('./generalEducation');

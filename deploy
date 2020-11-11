@@ -1,0 +1,20 @@
+serverless deploy --app getcoursesfromrule  &&
+serverless deploy --app getcoursesfromrule2 &&
+serverless deploy --app getcoursesfromrule3 &&
+serverless deploy --app getcoursesfromrule4 &&
+serverless deploy --app getcoursesfromrule5 &&
+serverless deploy --app getcoursesfromrule6 &&
+serverless deploy --app getcoursesfromrule7 &&
+serverless deploy --app getcoursesfromrule8 &&
+serverless deploy --app getcoursesfromrule9 &&
+serverless deploy --app getcoursesfromrule10 &&
+serverless deploy --app getcoursesfromrule11 &&
+serverless deploy --app getcoursesfromrule12 &&
+serverless deploy --app getcoursesfromrule13 &&
+serverless deploy --app getcoursesfromrule14 &&
+serverless deploy --app getcoursesfromrule15 &&
+serverless deploy --app getcoursesfromrule16 &&
+serverless deploy --app getcoursesfromrule17 &&
+serverless deploy --app getcoursesfromrule18 &&
+serverless deploy --app getcoursesfromrule19 &&
+serverless deploy --app getcoursesfromrule20
